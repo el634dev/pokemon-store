@@ -19,6 +19,9 @@
 <!-- What problem does it (intend to) solve?-->
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## Important
+Create a seperate js file for your pokedex logic or the pokedex will not work
+
 ## Technologies Used
 - HTML - version 5
 - CSS - version 3
@@ -41,15 +44,15 @@ How does one go about using it?
 `If the user goes to the Learn page, they can see a pokemon and can click some buttons.`
 
 ## Project Status
-Project is: _in progress_ and 95% _complete_ 
+Project is: _complete_ 
 
 ## Room for Improvement
 Room for improvement:
-- Pokedex can change to different pokemon with or without Poke API
+- The hero section can be more smoother
 - The cart can be moved to a separate page
 
 To do:
-- Fix the pokedex so users can see different pokemon
+- Add more elements to the footer
 - Add a separate cart page for improved UI
 
 ## Acknowledgements
