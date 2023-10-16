@@ -20,8 +20,9 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Important
-Create a seperate js file for your pokedex logic or the pokedex will not work
-
+- Create a seperate js file for your pokedex logic or the pokedex will not work
+- If you use Github Pages to deploy your site it will not update if you make changes
+  
 ## Technologies Used
 - HTML - version 5
 - CSS - version 3
