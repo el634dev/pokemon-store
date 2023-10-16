@@ -32,7 +32,7 @@
 List of features here:
 - Users can add, remove and delete items from their cart
 - Users can navigate through mulitple web pages
-- A non-functioning(at this time) pokedex was built to help users learn about their pokemon
+- A functioning pokedex was built to help users learn about different pokemon by searching their name or number based on Kanto
 
 ## Setup
 The requirements for this project are simple and do not require much setup. You will need a code editor of your choice. I use VSCode because HTML, CSS, and JavaScript are built in, which makes setup easier. There are no dependencies, only additional plugins if you would like to set them up. If you are unsure, then I would say Prettier+ and ESLint are a good start, along with Live Server. Live Sercer is also a requirement for this project because it allows you to see your website in your browser. You can get all the plugins in VSCode in the side menu, it looks like blocks. You can add the Poke API which you can find by searching for it in your browser. To sum everything up, all you need is a code editor and a plugin to allow you to see your website.
