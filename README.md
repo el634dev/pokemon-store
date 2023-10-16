@@ -1,6 +1,6 @@
 # Pokemon Store
 > A place where people can buy plush pokemon and have a great starter set. Become the greatest trainer!
-> Live demo [_here_](https://el634dev.github.io/pokemon-store/). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://pokemon-store-eight.vercel.app/learn.html). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
