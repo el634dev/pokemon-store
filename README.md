@@ -45,7 +45,7 @@ How does one go about using it?
 `If the user goes to the Learn page, they can see a pokemon and can click some buttons.`
 
 ## Project Status
-Project is: _complete_ 
+Project is: _completed_ 
 
 ## Room for Improvement
 Room for improvement:
